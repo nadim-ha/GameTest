@@ -16,9 +16,9 @@ DARKGREEN = (10, 50, 10)
 BLACK = (0, 0, 0)
 
 #check available system fonts
-fonts = pygame.font.get_fonts()
-for font in fonts:
-    print(font)
+#fonts = pygame.font.get_fonts()
+#for font in fonts:
+   # print(font)
 
 #define fonts
 system_font = pygame.font.SysFont('calibri', 32)
