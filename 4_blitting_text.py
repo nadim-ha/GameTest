@@ -50,4 +50,3 @@ while running:
 #End the game
 pygame.quit()
 
-test nadim
